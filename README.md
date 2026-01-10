@@ -4,4 +4,4 @@
 🌱 Currently working with **LLMs, RAG, embeddings, and multi-agent systems**  
 💞️ Open to collaborating on **AI products, applied ML, and scalable backend systems**  
 🛠️ Python | Machine Learning | AI Systems | Software Engineering  
-📫 Reach me at: your_email@example.com
+📫 Reach me at: ialshofi@gmail.com
