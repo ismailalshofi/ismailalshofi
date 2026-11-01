@@ -15,7 +15,7 @@ I like to start with a question and end with a number.
 | [beyond-words-voice-agent](https://github.com/ismailalshofi/beyond-words-voice-agent) | A real-time voice agent that listens to how you say something, not only what you say. Tone, pauses and silence go into one state, and a policy decides when to speak. |
 | [rag-structure](https://github.com/ismailalshofi/rag-structure) | A RAG API where the vector database is a setting (Chroma, Qdrant, pgvector). Cited answers, no answer without evidence, and evals for retrieval. |
 | [tokenization-study](https://github.com/ismailalshofi/tokenization-study) | Same model, same data, character vs BPE tokenization, compared fairly in bits per character. |
-| [character-based-language-model](https://github.com/ismailalshofi/character-based-language-model) | A GRU language model trained on news. Runs in the browser in a [Hugging Face Space](https://huggingface.co/spaces/Ismail99/char-news-writer). |
+| [character-based-language-model](https://github.com/ismailalshofi/character-based-language-model) | A GRU language model trained on news. Runs in the browser in a [Hugging Face Space](https://huggingface.co/spaces/Ismailalshofi/char-news-writer). |
 
 ### Stack
 
@@ -23,4 +23,4 @@ Python, FastAPI, PyTorch, TensorFlow, LLM APIs, vector databases, streaming ASR 
 
 ### Links
 
-[LinkedIn](https://www.linkedin.com/in/ismail-alshofi-323965168) · [Kaggle](https://www.kaggle.com/ismailalshofi) · [Medium](https://medium.com/@ialshofi) · [Hugging Face](https://huggingface.co/Ismail99) · ialshofi@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ismail-alshofi-323965168) · [Kaggle](https://www.kaggle.com/ismailalshofi) · [Medium](https://medium.com/@ialshofi) · [Hugging Face](https://huggingface.co/Ismailalshofi) · ialshofi@gmail.com
